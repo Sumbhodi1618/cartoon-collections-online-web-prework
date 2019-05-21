@@ -25,16 +25,5 @@ cheese_types = ["cheddar", "gouda", "camembert"]
   else
     nil
 end
-  if cheese_types.first == "cheddar"
-    puts "cheddar"
-  else
-    nil
-endcheese_types = ["cheddar", "gouda", "camembert"]
+end
 
-def find_the_cheese(cheese_types)
-  if cheese_types.first == "cheddar"
-    puts "cheddar"
-  else
-    nil
-end
-end
